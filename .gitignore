@@ -1,0 +1,16 @@
+# 本地配置与密钥
+.env
+
+# 依赖与构建产物
+node_modules/
+dist/
+bin/
+
+# 调试文件
+*.log
+jar.txt
+
+# 系统与编辑器
+.DS_Store
+.idea/
+.vscode/
